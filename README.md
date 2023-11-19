@@ -1,3 +1,3 @@
-# Hi! It`s my trainung site.
+# Hi! It`s my training site.
 
 HTML | CSS (.scss) | Vite
